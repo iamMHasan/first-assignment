@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.top-banner{
+    background-image:url(images/donation0.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 80px 40px;
+    box-shadow:50px 80px 500px 50px black inset;
+}
+.header-text{
+    text-align: center;
+    color: white;
+}
+.header-text h1{
+    font-size: 80px;
+    
+}
+.anchor-tag{
+    font-size: 20px;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5px;
+}
