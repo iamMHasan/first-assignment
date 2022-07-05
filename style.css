@@ -56,3 +56,36 @@ body{
 hr{
     width: 50%;
 }
+.dontion-plan{
+    text-align: center;
+}
+.donation-plan-feature{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 150px;
+
+}
+.feature-width{
+    width: 30%;
+    
+}
+.left-feature{
+    background-color: rgba(28, 204, 204, 0.315);
+    padding: 80px 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.middle-feature{
+    background-color: rgba(165, 42, 42, 0.221);
+    padding: 80px 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.right-feature{
+    background-color: rgba(137, 43, 226, 0.206);
+    padding: 80px 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
