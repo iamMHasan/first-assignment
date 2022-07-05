@@ -1,6 +1,12 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+.grey-color{
+    color: grey;
+}
+.text-size-h1{
+    font-size: 40px;
+}
 .top-banner{
     background-image:url(images/donation0.jpg);
     background-size: cover;
@@ -23,4 +29,30 @@ body{
     text-decoration: none;
     background-image: linear-gradient(orange, red);
     border-radius: 5px;
+}
+.donate-today{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+
+}
+.flex-display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.donate-tk{
+    width: 15%;
+    font-weight: 900;
+    
+}
+.donate-selection{
+    background-color: blanchedalmond;
+    border: 1px solid orange;
+    padding:50px 10px;
+    color: orange;
+}
+hr{
+    width: 50%;
 }
