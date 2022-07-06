@@ -107,4 +107,31 @@ hr{
     width: 100%;
     border-radius: 5px;
 }
-
+.get-update{
+    text-align: center;
+}
+.pink-background{
+    
+    width: 60%;
+    background-color: pink;
+    margin: auto;
+    padding: 30px;
+}
+.email{
+    background-color: rgba(128, 128, 128, 0.158);
+    padding: 0px 1px;
+    width: 200px;
+}
+.subscribe{
+    background-color: rgba(255, 14, 14, 0.364);
+    padding: 0px 1px;
+    width: 100px;   
+}
+.subscribe p{
+    color: white;
+}
+.subscribe-form{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
