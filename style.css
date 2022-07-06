@@ -10,12 +10,17 @@ body{
 .text-justify{
     text-align: justify;
 }
+.quota{
+    font-weight: 700;
+    color: orange;
+}
 .top-banner{
-    background-image:url(images/donation0.jpg);
+    background-image:linear-gradient(90deg, rgba(13,12,12,0.5858718487394958) 25%, rgba(34,22,22,0.5858718487394958) 50%, rgba(0,0,6,0.43461134453781514) 74%, rgba(1,14,17,1) 100%), url(images/donation0.jpg);
+    
     background-size: cover;
     background-repeat: no-repeat;
     padding: 80px 40px;
-    box-shadow:50px 80px 500px 50px black inset;
+    
 }
 .header-text{
     text-align: center;
@@ -55,6 +60,9 @@ body{
     border: 1px solid #ffa500;
     padding:50px 10px;
     color: orange;
+}
+.donate-selection:hover{
+    background-color: rgba(255, 166, 0, 0.294);
 }
 hr{
     width: 50%;
