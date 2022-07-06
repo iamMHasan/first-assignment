@@ -96,7 +96,7 @@ hr{
     display: flex;
     align-items: center;
     margin-left: 10px;
-    margin-bottom: 60px;
+    margin-bottom: 90px;
   
 }
 .donation-para-text{
@@ -116,6 +116,7 @@ hr{
     background-color: pink;
     margin: auto;
     padding: 30px;
+    margin-bottom: 100px;
 }
 .email{
     background-color: rgba(128, 128, 128, 0.158);
@@ -134,4 +135,14 @@ hr{
     display: flex;
     justify-content: center;
     padding: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+footer h1{
+    font-family: 'Dancing Script', cursive;
+    color: rgba(255, 14, 14, 0.831);
 }
