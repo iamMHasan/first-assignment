@@ -7,6 +7,9 @@ body{
 .text-size-h1{
     font-size: 40px;
 }
+.text-justify{
+    text-align: justify;
+}
 .top-banner{
     background-image:url(images/donation0.jpg);
     background-size: cover;
@@ -89,3 +92,19 @@ hr{
     margin-left: 10px;
     border-radius: 5px;
 }
+.donation-para{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 60px;
+  
+}
+.donation-para-text{
+    width: 50%;
+    margin-right:20px;
+}
+.donation-para-img1{
+    width: 100%;
+    border-radius: 5px;
+}
+
